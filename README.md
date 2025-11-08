@@ -2,6 +2,8 @@
 
 Test repository
 
+## This is Branch 2
+
 ## This is my test repository
 
 Hola LAurenceTaylorUSA
